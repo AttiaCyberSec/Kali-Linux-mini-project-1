@@ -46,10 +46,25 @@ ls -la ~/tools
 ## 9. Screenshots
 Here are the screenshots of commands executed in Kali Linux:
 
-![Update & Install](Screenshot_25690711_142055-2.jpg)
-![Nmap & Tools](Screenshot_25690711_142149-2.jpg)
-![Clone & List](Screenshot_25690711_142131-2.jpg)
+![Screenshot 1](Screenshot_25690711_142045~2.jpg)
 
+![Screenshot 2](Screenshot_25690711_142055~2.jpg)
+
+![Screenshot 3](Screenshot_25690711_142116~2.jpg)
+
+![Screenshot 4](Screenshot_25690711_142123~2.jpg)
+
+![Screenshot 5](Screenshot_25690711_142131~2.jpg)
+
+![Screenshot 6](Screenshot_25690711_142138~2.jpg)
+
+![Screenshot 7](Screenshot_25690711_142149~2.jpg)
+
+![Screenshot 8](Screenshot_25690711_142206~2.jpg)
+
+![Screenshot 9](Screenshot_25690711_142214~2.jpg)
+
+![Screenshot 10](Screenshot_25690711_142222~2.jpg)
 
 
 
