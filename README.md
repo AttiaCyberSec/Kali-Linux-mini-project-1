@@ -1,2 +1,15 @@
-# Kali-Linux-mini-project-1
-Complete Kali Linux setup: Package updates, Nmap, Gobuster, Hydra, Wireshark + Screenshots. Mini Project 1 by Sayed Faizan Shah
+# Kali-Linux-Mini-Project-1
+
+**Instructor:** Sayed Faizan Shah  
+**Student:** Attia Rawaid  
+**University:** Woman University Swabi  
+**Role:** Cybersecurity Intern - Red Team @ Veltrix
+
+## Project Overview
+This project covers essential Kali Linux setup for Penetration Testing and Vulnerability Assessment.
+## Commands & Steps
+```bash
+### 1. Update Package List
+sudo apt update
+sudo apt install -y nmap gobuster hydra wireshark
+sudo apt install python3-pip
