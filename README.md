@@ -43,7 +43,12 @@ git clone https://github.com/danielmiessler/SecLists.git
 ls -la ~/tools
 ```
 
+## 9. Screenshots
+Here are the screenshots of commands executed in Kali Linux:
 
+![Update & Install](Screenshot_25690711_142055-2.jpg)
+![Nmap & Tools](Screenshot_25690711_142149-2.jpg)
+![Clone & List](Screenshot_25690711_142131-2.jpg)
 
 
 
