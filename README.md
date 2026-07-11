@@ -11,5 +11,3 @@ This project covers essential Kali Linux setup for Penetration Testing and Vulne
 ```bash
 ### 1. Update Package List
 sudo apt update
-sudo apt install -y nmap gobuster hydra wireshark
-sudo apt install python3-pip
